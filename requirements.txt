@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+pandas_datareader
+tensorflow
+yfinance
+keras.models
+fbprophet
+datetime
+fbprophet.plot
